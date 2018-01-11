@@ -1,0 +1,28 @@
+{
+    "com.intel.security": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/01org/AppSecurityApi.git",
+            "subdir": ".",
+            "ref": "v1.4.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Максим\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova-plugins\\cordova-plugin-splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device@1.1.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
